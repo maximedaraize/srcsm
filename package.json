@@ -1,7 +1,7 @@
 {
   "name": "srcsm",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.1.0",
+  "description": "A simple function to make your text sound sarcastic.",
   "main": "dist/app",
   "typings": "dist/app",
   "type": "module",
@@ -12,9 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/maximedaraize/srcsm.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["typescript", "javascript", "helper", "utility", "sarcasm", "sarcastic", "meme" ],
+  "author": "Maxime Daraize <hello@maximedaraize.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/maximedaraize/srcsm/issues"
   },
