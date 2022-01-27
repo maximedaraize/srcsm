@@ -2,7 +2,8 @@
   "name": "srcsm",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/app",
+  "typings": "dist/app",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/maximedaraize/srcsm/issues"
   },
-  "homepage": "https://github.com/maximedaraize/srcsm#readme"
+  "homepage": "https://github.com/maximedaraize/srcsm#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }

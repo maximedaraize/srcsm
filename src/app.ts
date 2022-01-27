@@ -1,4 +1,4 @@
-export const srcsm = (string) => {
+export const srcsm = (string: string): string => {
   return string
     .split("")
     .map((item, index) =>
