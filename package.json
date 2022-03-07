@@ -1,7 +1,7 @@
 {
   "name": "srcsm",
-  "version": "1.0.0",
-  "description": "A simple function to make your text sound sarcastic.",
+  "version": "1.0.1",
+  "description": "🧽 A simple function to make your text sound sarcastic.",
   "main": "dist/app",
   "typings": "dist/app",
   "type": "module",
